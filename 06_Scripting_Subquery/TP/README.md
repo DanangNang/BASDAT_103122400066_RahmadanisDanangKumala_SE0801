@@ -16,7 +16,7 @@
 ## Deskripsi Output
 Nomor 1 dan 2 :
 
-![Jawaban Nomor 1 dan 2](1_dan_2_TP06.png)
+![Jawaban Nomor 1 dan 2](1_dan_2_TP06.jpeg)
 
 3. Database berhasil dijalankan dengan query DDL dan DML. Seluruh tabel, seperti FILM_103122400066 dan JADWAL_103122400066, menggunakan format [NamaTabel]_[NIM]. Struktur dan data terkonfirmasi melalui screenshot.
 
